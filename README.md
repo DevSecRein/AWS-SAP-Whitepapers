@@ -68,7 +68,7 @@ Migration scenarios are about 15-20% of the exam.
     
     - _Why read it:_ It details the "6 Rs" of migration (Rehost, Replatform, Refactor, etc.). You need to be able to look at a scenario and identify which "R" is being described or requested.
         
-    - [Link to Whitepaper]([https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/application-portfolio-assessment-guide/application-portfolio-assessment-guide.pdf#iterating-6-rs-migration-strategy-selection](https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/introduction.html))
+    - [Link to Whitepaper](https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/application-portfolio-assessment-guide/application-portfolio-assessment-guide.pdf#iterating-6-rs-migration-strategy-selection](https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/introduction.html))
         
 
 ---
