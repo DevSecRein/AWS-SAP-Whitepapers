@@ -11,7 +11,7 @@ These define the mindset you need for every question on the exam.
     
     - _Why read it:_ This is the bible of AWS exams. For the Pro exam, pay special attention to the **Reliability** and **Security** pillars. You need to know exactly how to trade off consistency for availability (and vice versa).
         
-    - [Link to Whitepaper](https://www.google.com/search?q=https://docs.aws.amazon.com/whitepapers/latest/aws-well-architected-framework/welcome.html)
+    - [Link to Whitepaper](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
         
 - **AWS Security Reference Architecture (AWS SRA)**
     
@@ -30,7 +30,7 @@ This domain is the biggest differentiator between Associate and Professional. Yo
     
     - _Why read it:_ You will see questions about "Organizational Units (OUs)" and "Service Control Policies (SCPs)." This paper explains the strategy behind segregating workloads (Prod, Dev, Shared Services, Log Archive).
         
-    - [Link to Whitepaper](https://www.google.com/search?q=https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/welcome.html)
+    - [Link to Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
         
 
 ---
