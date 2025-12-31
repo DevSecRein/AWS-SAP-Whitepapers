@@ -44,6 +44,8 @@ Networking is significantly harder on the Pro exam. You need to understand how t
     - _Why read it:_ This covers **Transit Gateway** architecture in depth. You need to know how to route traffic between VPCs and on-prem, and when to use Transit Gateway vs. VPC Peering vs. PrivateLink.
         
     - [Link to Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/welcome.html)
+    
+    - Bonus blog post: [AWS Cloud WAN and AWS Transit Gateway Migration and Interoperability Patterns](https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-and-aws-transit-gateway-migration-and-interoperability-patterns/). (Makes for a good portfolio project)
         
 - **Hybrid Connectivity** (Focus on Direct Connect & VPN)
     
