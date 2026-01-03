@@ -46,6 +46,8 @@ Networking is significantly harder on the Pro exam. You need to understand how t
     - [Link to Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/welcome.html)
     
     - Bonus blog post: [AWS Cloud WAN and AWS Transit Gateway Migration and Interoperability Patterns](https://aws.amazon.com/blogs/networking-and-content-delivery/aws-cloud-wan-and-aws-transit-gateway-migration-and-interoperability-patterns/). (Makes for a good portfolio project)
+    
+    - Bonus blog post 2: [How to integrate third-party firewall appliances into an aws environment](https://aws.amazon.com/blogs/networking-and-content-delivery/how-to-integrate-third-party-firewall-appliances-into-an-aws-environment/). (Good for interview prep) 
         
 - **Hybrid Connectivity** (Focus on Direct Connect & VPN)
     
