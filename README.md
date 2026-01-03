@@ -54,6 +54,8 @@ Networking is significantly harder on the Pro exam. You need to understand how t
     - _Why read it:_ You will face scenarios requiring high availability for on-prem connections. You must know the difference between Active/Active and Active/Passive VPNs, and how to use Direct Connect Gateway.
         
     - [Link to Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/hybrid-connectivity/welcome.html)
+ 
+    - [AWS Cloud Wan Bonus Whitepaper](https://docs.aws.amazon.com/pdfs/network-manager/latest/cloudwan/cloudwan.pdf#what-is-cloudwan). Long read and it is not necessary for the test but it is the transit Gateway replacement. Excellent project material
         
 - **Disaster Recovery of Workloads on AWS**
     
